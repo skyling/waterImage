@@ -1,0 +1,2 @@
+只需配置
+waterImg.conf.php  文件即可
